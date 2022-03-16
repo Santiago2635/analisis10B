@@ -1,1 +1,9 @@
+Taller 1: Nota 4.7
+    * lineas 9, 11 y 13 sobran
 
+Taller 2: Nota 3.5
+    * formula linea 13, incorrecta 
+    * linea 23, formula incorrecta
+    * linea 41, operacion incorrecta
+    * operaciones linea 47 hacia 49, incorrectas
+    * operacion linea 60 incorrecta

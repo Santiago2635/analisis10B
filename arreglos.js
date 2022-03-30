@@ -28,3 +28,22 @@ miPrimerArreglo[1]=18;
 console.log(miPrimerArreglo[1])
 notaEs[[0][1]]=4.8;
 console.log(notaEs[[0][1]]);
+//Agregar Elementos al arreglo
+miPrimerArreglo.push("10B");
+console.log(miPrimerArreglo);
+miPrimerArreglo.unshift("Gomez");
+console.log(miPrimerArreglo);
+//Eliminar elementos del arreglo
+miPrimerArreglo.pop( );
+console.log(miPrimerArreglo);
+miPrimerArreglo.shift( );
+console.log(miPrimerArreglo);
+
+
+var arregloQuiz=["analisis","Tecnologia","desarrollo"];
+console.log(arregloQuiz);
+arregloQuiz[2]="BBDD";
+console.log(arregloQuiz);
+arregloQuiz.unshift("introduccion");
+arregloQuiz.pop();
+console.log(arregloQuiz);

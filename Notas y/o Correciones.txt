@@ -20,3 +20,9 @@ Arreglo: Nota 5
 *************************** segundo periodo
 
 Enlace examen: https://acortar.link/HmjOm1
+
+
+Examen: Nota 5
+    * linea 21, debia de "20" como tipo String
+    * linea 30, incorrecta
+    * Punto 6, se pide el total a pagar. De la manera en que muestra el mensaje, el usuario debe hacer la suma por su cuenta para enterarse cuánto es el total

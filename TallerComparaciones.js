@@ -63,8 +63,13 @@ if(DiaPoli == "lunes" || DiaPoli == "martes"){
  
 console.log("Este dia " +PoliDeportivo);
 //10
-var numer1 
-var numer2 
+var Numero1=20
+var Numero2=1;
+var operacion="division"
+
+ 
+if(operacion == "division"){
+    console.log(Numero1/Numero2);
 
 //11
 var Dia="miercoles";
@@ -85,4 +90,17 @@ if(Dia == "lunes"){
 }else if(Dia =="domingo"){
   Almuerzo="Sancocho de Gallina"; 
 }
-console.log("El almuerzo del dia es " +Almuerzo);
+console.log("El almuerzo del dia es " +Almuerzo);}
+
+//12
+
+var operacion
+operacion=
+
+ 
+if(operacion == "a"||operacion=="e"||operacion=="i"||operacion=="o"||operacion=="u"){
+    console.log("vocal");
+}else if(operacion ==1||operacion==2||operacion==3||operacion==4||operacion==5||operacion==6||operacion==7||operacion==8||operacion==9||operacion==0){
+   console.log("número");}
+else{console.log("Es una consonate")}
+

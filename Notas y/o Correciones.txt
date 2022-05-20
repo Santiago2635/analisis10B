@@ -26,3 +26,12 @@ Examen: Nota 5
     * linea 21, debia de "20" como tipo String
     * linea 30, incorrecta
     * Punto 6, se pide el total a pagar. De la manera en que muestra el mensaje, el usuario debe hacer la suma por su cuenta para enterarse cuánto es el total
+
+Taller condicionales: Nota 3.8
+    * linea 27, condicion incorrecta
+    * linea 30, condicion incorrecta e incompleta
+    * linea 33, condicion incompleta
+    * punto 5, falta & donde se deben usar
+    * 6 - 8 ???🤷‍♂️🤷‍♂️
+    * punto 9, se pudo ahorrar varias lineas de código (esto no rebaja nota, es solo comentario)
+    * Punto 12, no resuelto

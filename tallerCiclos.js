@@ -72,27 +72,7 @@ console.log("Punto 8")
 var acu=0;
 var NomEstudiante=prompt("Ingrese el nombre del estudiante");
 var cantidadNotas=prompt("Ingrese la cantidad de notas del estudiante");
-var Notas=0;
-while(Notas<cantidadNotas){
-    var NotaFin=parseFloat(prompt("Ingrese las notas del estudiante de uno en uno"));
-    acu+=NotaFin;
-    console.log(acu);
-    Notas++
-}
-
-var promedio = acu/cantidadNotas;
-
-if(promedio>3.5){
-    console.log(NomEstudiante+" ganó la asignatura")
-}
-else console.log (NomEstudiante+" perdió la asignatura")
-
-console.log("Punto 9")
-
-var acu=0;
-var NomEstudiante=prompt("Ingrese el nombre del estudiante");
-var cantidadNotas=prompt("Ingrese la cantidad de notas del estudiante");
-var Notas=0;
+var Notas=prompt("Ingrese la cantidad de estudiantes ");
 while(Notas<cantidadNotas){
     var NotaFin=parseFloat(prompt("Ingrese las notas del estudiante de uno en uno"));
     acu+=NotaFin;

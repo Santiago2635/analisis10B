@@ -36,7 +36,7 @@ Taller condicionales: Nota 3.8
     * punto 9, se pudo ahorrar varias lineas de código (esto no rebaja nota, es solo comentario)
     * Punto 12, no resuelto
 
-taller while: Nota
+taller while: Nota 4.2
     * punto 6, el limite lo da el usuario
     * linea 55, debe mostrarse fuera del ciclo
     * linea 75, si es mayor a cantidadNotas, el ciclo nunca empieza (no suma bonus)

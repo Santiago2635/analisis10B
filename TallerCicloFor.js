@@ -23,7 +23,7 @@ for(var i=nume2; i<=nume1; i+=1){
 5x10=50
 */
 
-var nume0=parseInt(prompt("Ingrese un numero del 0 al 10"))
+var nume0=parseInt(prompt("Ingrese un numero"))
 for(var i=0;i<=10;i++){
     console.log(nume0+"x"+i+"="+nume0*i)
 }
@@ -38,15 +38,33 @@ for(var i=0;i<=numer2;i++){
 
 console.log("Punto 4")
 //Diseñe un ciclo for que reciba 10 números y los guarde en un arreglo, escriba otro ciclo for que retorne el número mayor del arreglo.
-
-var mayor=arregloNumeros=[] 
+ 
+var arregloNumeros=[] 
 var numeros; 
 for(var i=1; i<=10; i++){ 
-    numeros=prompt("Ingrese un número "+i)
+    numeros=parseFloat(prompt("Ingrese un número "+i))
     arregloNumeros.push(numeros); 
+ 
+}
+var mayor=arregloNumeros[0]
+for(var i=1;i<=10;i++){
     if(arregloNumeros[i]>mayor){
-        mayor=arregloNumeros[i]
-        console.log("El numero mayor registrado es "+mayor)
+mayor=arregloNumeros[i]
     }
 }
+console.log("El numero mayor de los ingresados "+mayor)
 
+console.log("Punto 5")
+var arreglo0=[]
+var producto
+for(var i=1;i<=5;i++){
+    producto=prompt("Ingrese los articulos que desea comprar")
+    arreglo0.push(producto)
+}
+var arregloPrecio =[]
+for(var i=0;i<arreglo0.length;i++){
+    var precio = parseFloat(prompt("Ingrese el precio de "+arreglo0[i]))
+    arregloPrecio.push(precio)
+}
+
+// Santiago Mendoza, David Peña, Sofia Restrepo

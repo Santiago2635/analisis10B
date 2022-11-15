@@ -51,3 +51,18 @@ ciclo for: nota 3.8
 
 Geometria
     nota 5
+
+
+
+cuarto periodo:
+
+taller1: 
+    nota: 3.6
+    * La palabra integrantes debe ir entre las etiquetas de un h2
+    * los <li> no van dentro de otros sin un <ul> o <ol>
+    *Pasatiempos favoritos debe ir en una etiqueta <h2>
+    * los <li> no van dentro de otros sin un <ul> o <ol>
+    * el <ol> de la linea 17 no cerró
+    * linea 39, debía ser h2 y no cerrar tan abajo
+    * los <li> no van dentro de otros sin un <ul> o <ol>
+    * No hay enlaces que lleven al sitio que desean visitar

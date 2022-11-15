@@ -48,3 +48,6 @@ examen while: Nota 5
 ciclo for: nota 3.8
     * punto 2, no debe limitar al usuario. La tabla de multiplicar puede ser de cualquier número
     * punto 4, no funciona 
+
+Geometria
+    nota 5
